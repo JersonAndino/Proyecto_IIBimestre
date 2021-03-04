@@ -10,4 +10,5 @@ package proyecto_iibimestre;
  * @author Jerson Andino
  */
 public class PartesComputador {
+    private String RAM;
 }
